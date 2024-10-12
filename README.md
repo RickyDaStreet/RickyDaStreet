@@ -64,7 +64,6 @@
 <br>
 <div align=center>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=RickyDaStreet&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    ![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 </div>
 
 <br/><br/>
