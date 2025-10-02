@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Hardware Hacking, Cyber Forensics**
+ 🌱 I’m currently learning **Hardware Hacking & Digital Forensics**
 
 💬 Ask me about **Python, Linux, Bash**
 
